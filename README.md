@@ -1,25 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abhinav Shrivastav</h1>
-<h3 align="center">Aspiring AI Product Manager | Full-Stack Developer | Python & UI/UX Design | 365 Days of AI & Robotics | Python & LLMs | Ex-IEEE | Learner | Tech Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I+love+building+things+with+code;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+with+Code;Learning+Every+Day;Focused+on+Consistency" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinavshrivastavgit&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+## 👋 About Me
 
----
+- 🎯 Aspiring **Software Developer** passionate about building real-world projects  
+- 🌱 Currently learning **JavaScript, Backend Development & Problem Solving**  
+- 💡 Interested in **Web Development, APIs, and Clean Code**  
+- 🔁 Strong believer in **daily progress over short bursts of effort**  
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on **Web & Software Projects**
-- 🌱 I’m learning **Advanced JavaScript, Backend & System Design**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Dev, Git, Programming**
-- ⚡ Fun fact: **I enjoy learning how things work**
+> *I value consistency, clarity, and continuous improvement.*
 
 ---
 
@@ -36,7 +31,7 @@
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true"
-    alt="GitHub Streak Stats"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -51,50 +46,48 @@
   <i>Consistency matters more than intensity.</i>
 </p>
 
+---
 
+## 📌 Featured Projects
 
+### 🔹 Project 1: Portfolio Website
+- Personal portfolio built using **HTML, CSS, JavaScript**
+- Responsive design with clean UI  
+- 🔗 *Link coming soon*
+
+### 🔹 Project 2: JavaScript Practice Projects
+- Small apps to strengthen **core JS concepts**
+- Focus on logic, DOM manipulation, and clarity  
+
+> ⭐ More projects coming as I continue building and learning.
 
 ---
 
-## 🏆 GitHub Highlights
+## 🎯 What I’m Currently Working On
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true"
-    alt="GitHub Consistency"
-  />
-</p>
-
-<p align="center">
-  ⭐ Focused on consistency, learning, and real-world projects
-</p>
-
-
+- 📚 Strengthening **DSA & problem-solving skills**
+- 🧩 Building **small but complete projects**
+- 🚀 Preparing for **internships / entry-level developer roles**
 
 ---
 
-## 🔗 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/abhinavshrivastav-no1/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/abhinavshrivastavgit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:abhinavshrivastavgit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <!-- <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
-  </a> -->
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 📌 Pinned Projects
-
-⭐ Check out my repositories below and feel free to star them!
-
----
-
 <p align="center">
-  <b>✨ Thanks for visiting my profile ✨</b>
+  <b>Thanks for visiting my profile! 😊</b><br/>
+  <i>Feel free to explore my repositories and follow my journey.</i>
 </p>
