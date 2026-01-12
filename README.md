@@ -56,14 +56,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=abhinavshrivastavgit&theme=radical&no-frame=true&margin-w=15"
-    alt="GitHub Trophies"
+    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true"
+    alt="GitHub Consistency"
   />
 </p>
+
+<p align="center">
+  ⭐ Focused on consistency, learning, and real-world projects
+</p>
+
 
 
 ---
