@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">Full Stack Developer | Learner | Tech Enthusiast</h3>
 
-<!--
-**abhinavshrivastavgit/AbhinavShrivastavGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I+love+building+things+with+code;Always+Learning+New+Technologies" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **Web & Software Projects**
+- 🌱 I’m learning **Advanced JavaScript, Backend & System Design**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Dev, Git, Programming**
+- ⚡ Fun fact: **I enjoy learning how things work**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,git,github,mongodb" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUREMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
+  </a>
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+⭐ Check out my repositories below and feel free to star them!
+
+---
+
+<p align="center">
+  <b>✨ Thanks for visiting my profile ✨</b>
+</p>
