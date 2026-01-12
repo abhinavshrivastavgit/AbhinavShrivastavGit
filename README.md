@@ -87,6 +87,17 @@
 
 ---
 
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Random Dev Quote"
+  />
+</p>
+
+---
+
 <p align="center">
   <b>Thanks for visiting my profile! 😊</b><br/>
   <i>Feel free to explore my repositories and follow my journey.</i>
