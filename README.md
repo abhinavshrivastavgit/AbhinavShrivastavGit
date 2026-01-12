@@ -94,6 +94,7 @@
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
     alt="Random Dev Quote"
   />
+  <p>Randomly Generated Quotes</p>
 </p>
 
 ---
