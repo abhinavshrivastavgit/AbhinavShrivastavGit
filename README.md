@@ -40,11 +40,13 @@
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical"
-    alt="GitHub Stats"
-  />
+  <img src="./assets/github-stats.png" alt="GitHub Overview" />
 </p>
+
+<p align="center">
+  <i>Consistency matters more than intensity.</i>
+</p>
+
 <p align="center">
   <i>Consistency matters more than intensity.</i>
 </p>
