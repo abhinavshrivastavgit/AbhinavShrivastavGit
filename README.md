@@ -42,7 +42,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true"
+    src="https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&theme=radical&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
