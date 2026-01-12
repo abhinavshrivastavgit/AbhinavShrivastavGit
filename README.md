@@ -31,19 +31,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavshrivastavgit&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavshrivastavgit&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <i>Consistency matters more than intensity.</i>
+</p>
+
 
 ---
 
@@ -58,15 +63,15 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/abhinavshrivastav-no1/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUREMAIL@gmail.com">
+  <a href="mailto:abhinavshrivastavgit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <!-- <a href="https://twitter.com/YOUR_TWITTER">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
-  </a>
+  </a> -->
 </p>
 
 ---
