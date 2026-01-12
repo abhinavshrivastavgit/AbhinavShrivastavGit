@@ -52,7 +52,7 @@
 </p>
 <p align="center">
   <img 
-    src="Abhinav_Shrivastav_stats.png" width="500"
+    src="Abhinav_Shrivastav_stats.png" width="720"
     alt="Abhinav's GitHub Stats"
   />
 </p>
