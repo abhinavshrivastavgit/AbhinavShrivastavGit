@@ -34,12 +34,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavshrivastavgit&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavshrivastavgit&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavshrivastavgit&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
