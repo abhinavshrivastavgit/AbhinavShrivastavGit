@@ -10,12 +10,13 @@
 
 ## 👋 About Me
 
-- 🎯 Aspiring **Software Developer** passionate about building real-world projects  
-- 🌱 Currently learning **JavaScript, Backend Development & Problem Solving**  
-- 💡 Interested in **Web Development, APIs, and Clean Code**  
-- 🔁 Strong believer in **daily progress over short bursts of effort**  
+* 🚀 **Aspiring AI Product Manager** focused on bridging the gap between raw data and business value [cite: 2026-01-08].
+* 🏗️ **Building Sentinel-Leads:** A major project implementing iterative logic and transparent decision trees to prioritize high-value sales targets [cite: 2026-01-11].
+* 📊 **Methodology-Driven:** Applying the **IBM Data Science Methodology** to ensure technical projects solve real-world "Business Understanding" problems [cite: 2026-01-08].
+* 🛠️ **Tech Stack:** Python (Logic & LLMs), SQL (Data Requirements), and Product Management (PRDs & System Architecture) [cite: 2026-01-08, 2026-01-11].
+* 📈 **Daily Growth Score:** Dedicated to 1% daily technical and strategic improvement over short bursts of effort [cite: 2026-01-04].
 
-> *I value consistency, clarity, and continuous improvement.*
+> "I value code that makes decisions and data that drives revenue."
 
 ---
 
