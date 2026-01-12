@@ -41,7 +41,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=redical&hide_border=true"
+    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
