@@ -40,6 +40,7 @@
 ### 📊 GitHub at a Glance
 
 <p align="center">
+  <img src="https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical" />
 ![GitHub Stats](https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical)
 
 </p>
