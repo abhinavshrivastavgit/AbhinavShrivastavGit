@@ -35,22 +35,15 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true"
-    alt="GitHub Streak"
+    alt="GitHub Streak Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavshrivastavgit&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavshrivastavgit&theme=redical&hide_border=true"
+    alt="Contribution Graph"
   />
 </p>
 
@@ -60,13 +53,18 @@
 
 
 
+
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavshrivastavgit&theme=radical&no-frame=true&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=abhinavshrivastavgit&theme=radical&no-frame=true&margin-w=15"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ---
 
