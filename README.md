@@ -40,21 +40,17 @@
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavshrivastavgit&theme=redical&hide_border=true"
-    alt="Contribution Graph"
-  />
+  <img src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true" />
 </p>
+
 <p align="center">
   <i>Consistency matters more than intensity.</i>
 </p>
+
 
 ---
 
