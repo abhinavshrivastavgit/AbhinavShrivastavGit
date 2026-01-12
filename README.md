@@ -34,20 +34,30 @@
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img 
+    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavshrivastavgit&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavshrivastavgit&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
   <i>Consistency matters more than intensity.</i>
 </p>
+
 
 
 ---
