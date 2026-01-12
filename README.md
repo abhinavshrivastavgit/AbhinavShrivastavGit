@@ -56,6 +56,7 @@
 <p align="center">
   <i>Consistency matters more than intensity.</i>
 </p>
+
 ---
 
 ### 🌟 Featured Projects
