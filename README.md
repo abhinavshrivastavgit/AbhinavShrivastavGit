@@ -42,12 +42,6 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-<p align="center">
-  <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavshrivastavgit&theme=radical&hide_border=true"
     alt="Contribution Graph"
   />
@@ -55,7 +49,9 @@
 
 <p align="center">
    [Abhinav's GitHub Stats]
+   <p>
   (https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
+   </p>
 </p>
 <p align="center">
   <i>Consistency matters more than intensity.</i>
