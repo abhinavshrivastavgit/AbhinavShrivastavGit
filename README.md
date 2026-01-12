@@ -50,27 +50,14 @@
 ---
 
 ### 🌟 Featured Projects
-## **[Sentinel-Leads](https://github.com/abhinavshrivastavgit/Abhinav-AI-Product-Suite/tree/main/Sentinel-Leads) (Major):** ##
-*  - AI-driven revenue recovery and sales funnel optimization engine.
-## **[Portfolio Website](https://github.com/abhinavshrivastavgit/Portfolio) (Major):** ##
-*  - Professional personal portfolio built with HTML, CSS, and JavaScript.
-## **[Python Logic Foundation](https://github.com/abhinavshrivastavgit/python_logic_foundation) (Minor):** ##
-*  - Daily algorithmic drills and foundational problem-solving logic.
-
+## 🔹**[Sentinel-Leads](https://github.com/abhinavshrivastavgit/Abhinav-AI-Product-Suite/tree/main/Sentinel-Leads) (Major):** ##
+*   AI-driven revenue recovery and sales funnel optimization engine.
+## 🔹**[Portfolio Website](https://github.com/abhinavshrivastavgit/Portfolio) (Major):** ##
+*   Professional personal portfolio built with HTML, CSS, and JavaScript.
+## 🔹**[Python Logic Foundation](https://github.com/abhinavshrivastavgit/python_logic_foundation) (Minor):** ##
+*   Daily algorithmic drills and foundational problem-solving logic.
 ---
-## 📌 Featured Projects
-
-### 🔹 Project 1: Portfolio Website
-- Personal portfolio built using **HTML, CSS, JavaScript**
-- Responsive design with clean UI  
-- 🔗 *Link coming soon*
-
-### 🔹 Project 2: JavaScript Practice Projects
-- Small apps to strengthen **core JS concepts**
-- Focus on logic, DOM manipulation, and clarity  
-
 > ⭐ More projects coming as I continue building and learning.
-
 ---
 
 ### 🚧 What I’m Currently Working On
@@ -85,10 +72,10 @@
   <a href="https://github.com/abhinavshrivastavgit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="abhinavshrivastavofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abhinavshrivastav-no1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
