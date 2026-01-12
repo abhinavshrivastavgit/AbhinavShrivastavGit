@@ -36,9 +36,6 @@
 
 
 ---
-
-## 📊 GitHub at a Glance
-
 ## 📊 GitHub at a Glance
 
 <p align="center">
