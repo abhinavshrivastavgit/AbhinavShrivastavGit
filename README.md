@@ -40,7 +40,11 @@
 ### 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical" 
+    alt ="git stat" />
+  
+![GitHub Stats](https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical)
+
 
 </p>
 <p align="center">
