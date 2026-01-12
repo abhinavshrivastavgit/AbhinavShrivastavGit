@@ -40,12 +40,7 @@
 ### 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical" 
-    alt ="git stat" />
-  
-![GitHub Stats](https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical)
-
-
+  ![GitHub Stats](https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
 </p>
 <p align="center">
   <i>Consistency matters more than intensity.</i>
