@@ -37,18 +37,18 @@
 
 
 ---
-## 📊 GitHub at a Glance
+### 📊 GitHub at a Glance
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&v=1"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&v=1"
+    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical"
     alt="GitHub Streak"
   />
 </p>
@@ -56,9 +56,6 @@
 <p align="center">
   <i>Consistency matters more than intensity.</i>
 </p>
-
-
-
 ---
 
 ### 🌟 Featured Projects
