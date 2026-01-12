@@ -50,8 +50,8 @@
 <p align="center">
    ![Abhinav's GitHub Stats](https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
 <img 
-    src="C:\Users\Vaishnavi Shrivastav\Desktop\graphic designing\git\git_qr1.png"
-    alt="Contribution Graph"
+    src="git_qr1.png"
+    alt="Abhinav's GitHub Stats"
   />
 </p>
 <p align="center">
