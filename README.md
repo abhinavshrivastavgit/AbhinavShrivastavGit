@@ -39,6 +39,8 @@
 
 ## 📊 GitHub at a Glance
 
+## 📊 GitHub at a Glance
+
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&hide_border=true"
@@ -52,8 +54,6 @@
     alt="Contribution Graph"
   />
 </p>
-
-
 <p align="center">
   <i>Consistency matters more than intensity.</i>
 </p>
