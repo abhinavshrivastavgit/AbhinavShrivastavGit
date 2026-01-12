@@ -41,21 +41,22 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical"
-    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&v=1"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical"
-    width="400"
+    src="https://streak-stats.demolab.com?user=abhinavshrivastavgit&theme=radical&v=1"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <i>Consistency matters more than intensity.</i>
 </p>
+
 
 
 ---
