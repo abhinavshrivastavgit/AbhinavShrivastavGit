@@ -40,22 +40,25 @@
 
 ## 📊 GitHub at a Glance
 
+
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavshrivastavgit&theme=radical&hide_border=true"
-    alt="Contribution Graph"
+    src="Abhinav_Shrivastav_stats.png" width="1024"
+    alt="Abhinav's GitHub Stats"
   />
 </p>
 
 <p align="center">
-   ![Abhinav's GitHub Stats](https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
-</p>
-<p align="center">
   <img 
-    src="Abhinav_Shrivastav_stats.png" width="720"
-    alt="Abhinav's GitHub Stats"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavshrivastavgit&theme=radical&hide_border=true"width="720"
+    alt="Contribution Graph"
   />
 </p>
+
+<!-- <p align="center">
+   ![Abhinav's GitHub Stats](https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
+</p> -->
+
 
 
 <p align="center">
