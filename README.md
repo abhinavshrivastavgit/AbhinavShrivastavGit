@@ -56,7 +56,7 @@
 *   Professional personal portfolio built with HTML, CSS, and JavaScript.
 ## 🔹**[Python Logic Foundation](https://github.com/abhinavshrivastavgit/python_logic_foundation) (Minor):** ##
 *   Daily algorithmic drills and foundational problem-solving logic.
----
+  
 > ⭐ More projects coming as I continue building and learning.
 ---
 
@@ -75,7 +75,7 @@
   <a href="abhinavshrivastavofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abhinavshrivastav-no1/">
+  <a href="[(https://www.linkedin.com/in/abhinavshrivastav-no1)]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
