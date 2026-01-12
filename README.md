@@ -50,7 +50,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavshrivastavgit&theme=radical&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavshrivastavgit&theme=redical&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
