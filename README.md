@@ -80,7 +80,7 @@
   <a href="https://github.com/abhinavshrivastavgit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:abhinavshrivastavjobs@gmail.com">
+  <a href="mailto:abhinavshrivastavofficial@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
  <a href="https://www.linkedin.com/in/abhinavshrivastav-no1/" target="_blank">
