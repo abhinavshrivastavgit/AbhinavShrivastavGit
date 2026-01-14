@@ -50,7 +50,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-graph.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=redical&hide_border=true"width="720"
+    src="https://streak-stats.demolab.com/?user=abhinavshrivastavgit&theme=radical&hide_border=true"width="720"
     alt="Contribution Graph"
   />
 </p>
