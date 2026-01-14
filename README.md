@@ -57,7 +57,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavshrivastavgit&theme=radical&hide_border=true"width="720"
+    src="https://github-readme-stats-m0txx8n9y.vercel.app/api?username=abhinavshrivastavgit&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600"width="720"
     alt="Contribution Graph"
   />
 </p>
