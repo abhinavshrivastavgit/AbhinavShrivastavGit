@@ -40,6 +40,12 @@
 
 ## 📊 GitHub at a Glance
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=abhinavshrivastavgit&theme=redical&hide_border=true" width="720"
+    alt="Abhinav's GitHub Stats"
+  />
+</p>
 
 <p align="center">
   <img 
