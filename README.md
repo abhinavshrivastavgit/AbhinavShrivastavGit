@@ -66,14 +66,14 @@
 
 ---
 
-### 🌟 Featured Projects
-## 🔹[Sentinel-Leads](https://github.com/abhinavshrivastavgit/Abhinav-AI-Product-Suite/tree/main/Sentinel-Leads) (Major): ##
+## 🌟 Featured Projects
+### 🔹[Sentinel-Leads](https://github.com/abhinavshrivastavgit/Abhinav-AI-Product-Suite/tree/main/Sentinel-Leads) (Major): ##
 *   AI-driven revenue recovery and sales funnel optimization engine.
-## 🔹[ SQL-DDL-Lifecycle-Audit](https://github.com/abhinavshrivastavgit/SQL_workout/tree/main/DDL) (Minor): ##
+### 🔹[ SQL-DDL-Lifecycle-Audit](https://github.com/abhinavshrivastavgit/SQL_workout/tree/main/DDL) (Minor): ##
 *   A Systematic Approach to Schema Manipulation.
-## 🔹[Portfolio Website](https://github.com/abhinavshrivastavgit/Portfolio) (Major): ##
+### 🔹[Portfolio Website](https://github.com/abhinavshrivastavgit/Portfolio) (Major): ##
 *   Professional personal portfolio built with HTML, CSS, and JavaScript.
-## 🔹[Python Logic Foundation](https://github.com/abhinavshrivastavgit/python_logic_foundation) (Minor): ##
+### 🔹[Python Logic Foundation](https://github.com/abhinavshrivastavgit/python_logic_foundation) (Minor): ##
 *   Daily algorithmic drills and foundational problem-solving logic.
 
   
