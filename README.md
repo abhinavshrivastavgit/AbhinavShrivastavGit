@@ -61,7 +61,7 @@
 
 
 <p align="center">
-  <i>Consistency matters more than intensity.</i>
+  <i>" Building myself brick by brick "</i>
 </p>
 
 ---
