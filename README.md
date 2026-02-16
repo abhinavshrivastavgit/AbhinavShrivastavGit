@@ -27,11 +27,11 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Logic](https://img.shields.io/badge/Data_Science-Methodology-blueviolet?style=for-the-badge)
 * **Real Growth:** Applying iterative logic and Decision Trees to recover lost e-commerce revenue.
 
-### 🔹 Database & Infrastructure (Next Mastery)
+### 🔹 Database & Infrastructure (Next Mastery).
   ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 * **Status:** 🚧 Currently mastering SQL to handle high-volume lead data for the AI Product Suite.
 
-### 🔹 Web & Backend (Future Roadmap)
+### 🔹 Web & Backend (Future Roadmap).
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 * **Status:** 🎯 Future goal to build APIs that serve Product Intelligence to live dashboards.
 
