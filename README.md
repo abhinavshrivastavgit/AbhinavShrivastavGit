@@ -23,7 +23,6 @@
 ## 🛠️ Tech Stack & Lab Roadmap
 
 ### 🔹 Artificial Intelligence & Logic
-</p>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 * **Real Growth:** Orchestrating local LLMs and building semantic search engines using **nomic-embed-text**. 
 
@@ -94,27 +93,6 @@
 </a>
 </p>
 
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/abhinavshrivastavgit" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="GitHub" width="50" height="50" />
-  </a>
-  <a href="mailto:abhinavshrivastavofficial@gmail.com">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Gmail" width="50" height="50" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhinavshrivastav-no1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="LinkedIn" width="50" height="50" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Click an icon to reach out!</i>
-</p>
-
----
 ---
 
 ## ✍️ Random Dev Quote
