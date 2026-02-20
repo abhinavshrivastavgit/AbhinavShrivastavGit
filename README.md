@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="2" height="28" /> About Me 
 
 * 🤖 **AI Intelligence Architect:** Currently building local-first AI agents using **Ollama** and **Llama 3.2**.
 * 🏗️ **Building Local-AI-Agent:** A major project implementing **RAG (Retrieval-Augmented Generation)** to turn static CSV data into interactive intelligence.
